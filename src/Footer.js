@@ -8,14 +8,14 @@ export default function Footer() {
       </a>
       and is{" "}
       <a
-        href="https://github.com/Denise148/SheCodes-Project-Weather-App"
+        href="https://github.com/Denise148/weather-react"
         target="_blank"
         rel="noreferrer">
         on GitHub{" "}
       </a>
       and{" "}
       <a
-        href="https://app.netlify.com/teams/denise148/overview"
+        href="https://app.netlify.com/sites/weather-react-she-codes/overview"
         target="_blank"
         rel="noreferrer">
         hosted on Netlify
